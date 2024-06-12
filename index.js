@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to your inquiries"];
+const statusMessages = ["Watching Fly Pacific Server"];
 
 
 let currentIndex = 0;
