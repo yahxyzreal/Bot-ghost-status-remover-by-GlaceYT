@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Fly Pacific Server"];
+const statusMessages = ["                 "];
 
 
 let currentIndex = 0;
