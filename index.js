@@ -97,7 +97,7 @@ client.once('ready', () => {
   updateStatusAndSendMessages();
 
   setInterval(() => {
-    updateStatusAndSendMessages();
+    updateStatusAndSendMessages(Watching over SAS);
   }, 10000);
 });
 
