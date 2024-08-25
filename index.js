@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["                 "];
+const statusMessages = ["Watching over SAS!"];
 
 
 let currentIndex = 0;
@@ -97,7 +97,7 @@ client.once('ready', () => {
   updateStatusAndSendMessages();
 
   setInterval(() => {
-    updateStatusAndSendMessages(Watching over SAS);
+    updateStatusAndSendMessages();
   }, 10000);
 });
 
