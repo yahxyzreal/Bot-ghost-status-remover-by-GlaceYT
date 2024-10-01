@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over Horizon Australia!"];
+const statusMessages = ["<:TailLogoBlue:1287206355114917959> 𝘛𝘩𝘦 𝘰𝘯𝘭𝘺 𝘢𝘪𝘳𝘭𝘪𝘯𝘦 𝘺𝘰𝘶'𝘭𝘭 𝘦𝘷𝘦𝘳 𝘯𝘦𝘦𝘥"];
 
 
 let currentIndex = 0;
