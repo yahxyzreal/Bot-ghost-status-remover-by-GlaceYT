@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["𝘛𝘩𝘦 𝘰𝘯𝘭𝘺 𝘢𝘪𝘳𝘭𝘪𝘯𝘦 𝘺𝘰𝘶'𝘭𝘭 𝘦𝘷𝘦𝘳 𝘯𝘦𝘦𝘥"];
+const statusMessages = ["HorizonWorld AI protecting us"];
 
 
 let currentIndex = 0;
