@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["THE ONLY AIRLINE YOU'LL EVER NEED"];
+const statusMessages = ["Watching 𝗧𝗵𝗲 𝗼𝗻𝗹𝘆 𝗮𝗶𝗿𝗹𝗶𝗻𝗲 𝘆𝗼𝘂'𝗹𝗹 𝗲𝘃𝗲𝗿 𝗻𝗲𝗲𝗱"];
 
 
 let currentIndex = 0;
